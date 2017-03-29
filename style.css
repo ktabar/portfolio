@@ -1,0 +1,15 @@
+.title{
+    font-family: garamond;
+    font-size: 30px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.top_bottom_bar{
+    background: aquamarine;
+    width: 100%;
+    height: 40px;
+    padding-bottom:20px;
+}
